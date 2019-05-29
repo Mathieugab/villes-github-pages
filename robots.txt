@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cgv.html
+Disallow: /cgu.html
+Disallow: /mentions-legales.html
